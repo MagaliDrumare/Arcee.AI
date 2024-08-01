@@ -6,6 +6,7 @@ Arcee.AI emerged from the brainstorming of three co-founders – Mark McQuade, J
 Upon Arcee.AI’s emergence from stealth in September 2023, the market immediately confirmed the need for their easy-to-use platform for creating performant and efficient custom LLMs, or what they call Small Language Models (SLMs). As they announced their Seed Round in January 2024, quickly followed by their Series A in July, they say what they're most proud of is seeing their expanding customer base empowered by Arcee.AI-built SLMs – which are driving business value and innovation for enterprises across the globe every day.
 
 - Website: https://www.arcee.ai/
+- App : https://app.arcee.ai/
 - GitHub : https://github.com/arcee-ai
 - Linkedin : https://www.linkedin.com/company/arcee-ai/
 
